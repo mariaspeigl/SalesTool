@@ -9,5 +9,10 @@ public class SalesData {
 		System.out.println("EW2");
 		
 	}
+	
+	public String getStringTest() {
+		return "test";
+		
+	}
 
 }
